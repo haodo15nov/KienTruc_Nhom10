@@ -1,0 +1,7 @@
+customers --< reception >-- devices
+            |                |
+         quotations       accounting
+            |                |
+       +---------< evaluation
+            |
+      disposal_recycle
